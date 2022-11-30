@@ -31,7 +31,7 @@ a {
 }
 .search-bar svg {
   position: absolute;
-  right: 40%;
+  right: 37%;
   cursor: pointer;
 }
 .search-bar i {
@@ -39,6 +39,6 @@ a {
   font-size: 18px;
   color: #4444;
   padding: 5px;
-  left: 40%;
+  left: 37%;
   cursor: pointer;
 }
